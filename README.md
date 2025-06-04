@@ -37,7 +37,11 @@ The following steps were taken to clean the data:
 
 Removed duplicates
 
-Handled missing values using
+Handled missing values
+
+Removed Outliers
+
+Drew a boxplot to chech if the outliers have been removed
 
 Saved the cleaned dataset for further use
 
@@ -81,4 +85,4 @@ Always back up the raw data before applying transformations.
 Cleaning methods should be tailored depending on your downstream use case (analysis vs. ML).
 
 📬 Contact
-For questions or suggestions, feel free to contact [your name or GitHub handle].
+For questions or suggestions, feel free to contact [petersonwagura].
